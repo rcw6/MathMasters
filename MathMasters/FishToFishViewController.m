@@ -69,13 +69,13 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     ImageArray = [[NSMutableArray alloc] init];
-    [ImageArray addObject:@"fish-fish1 copy.png"];
-    [ImageArray addObject:@"fish-fish2 copy.png"];
-    [ImageArray addObject:@"fish-fish3 copy.png"];
-    [ImageArray addObject:@"fish-fish4 copy.png"];
-    [ImageArray addObject:@"fish-fish5 copy.png"];
-    [ImageArray addObject:@"fish-fish6 copy.png"];
-    [ImageArray addObject:@"fish-fish7 copy.png"];
+    [ImageArray addObject:@"fish-fish01.png"];
+    [ImageArray addObject:@"fish-fish02.png"];
+    [ImageArray addObject:@"fish-fish03.png"];
+    [ImageArray addObject:@"fish-fish04.png"];
+    [ImageArray addObject:@"fish-fish05.png"];
+    [ImageArray addObject:@"fish-fish06.png"];
+    [ImageArray addObject:@"fish-fish07.png"];
     
     [self LoadPictures];
     
