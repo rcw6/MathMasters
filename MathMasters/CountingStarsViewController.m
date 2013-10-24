@@ -26,108 +26,108 @@
 
 -(IBAction)star1_Clicked:(id)sender
 {
-    if([[highlight_stars1 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars1 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage1 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage1 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars1 setBackgroundImage:btnImage1 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage1 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage1 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars1 setBackgroundImage:btnImage1 forState:UIControlStateNormal];
     }
 }
 
 -(IBAction)star2_Clicked:(id)sender
 {
-    if([[highlight_stars2 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars2 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage2 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage2 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars2 setBackgroundImage:btnImage2 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage2 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage2 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars2 setBackgroundImage:btnImage2 forState:UIControlStateNormal];
     }
 }
 
 -(IBAction)star3_Clicked:(id)sender;
 {
-    if([[highlight_stars3 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars3 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage3 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage3 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars3 setBackgroundImage:btnImage3 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage3 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage3 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars3 setBackgroundImage:btnImage3 forState:UIControlStateNormal];
     }
 }
 -(IBAction)star4_Clicked:(id)sender;
 {
-    if([[highlight_stars4 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars4 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage4 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage4 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars4 setBackgroundImage:btnImage4 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage4 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage4 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars4 setBackgroundImage:btnImage4 forState:UIControlStateNormal];
     }
 }
 -(IBAction)star5_Clicked:(id)sender;
 {
-    if([[highlight_stars5 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars5 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage5 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage5 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars5 setBackgroundImage:btnImage5 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage5 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage5 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars5 setBackgroundImage:btnImage5 forState:UIControlStateNormal];
     }
 }
 -(IBAction)star6_Clicked:(id)sender;
 {
-    if([[highlight_stars6 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars6 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage6 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage6 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars6 setBackgroundImage:btnImage6 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage6 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage6 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars6 setBackgroundImage:btnImage6 forState:UIControlStateNormal];
     }
 }
 -(IBAction)star7_Clicked:(id)sender;
 {
-    if([[highlight_stars7 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"Star (1).png"]])
+    if([[highlight_stars7 backgroundImageForState:UIControlStateNormal] isEqual: [UIImage imageNamed:@"star01.png"]])
     {
         [self SubtractTotalGuessed];
-        btnImage7 = [UIImage imageNamed:@"white-star-hi.png"];
+        btnImage7 = [UIImage imageNamed:@"star02.png"];
         [highlight_stars7 setBackgroundImage:btnImage7 forState:UIControlStateNormal];
     }
     else
     {
         [self AddTotalGuessed];
-        btnImage7 = [UIImage imageNamed:@"Star (1).png"];
+        btnImage7 = [UIImage imageNamed:@"star01.png"];
         [highlight_stars7 setBackgroundImage:btnImage7 forState:UIControlStateNormal];
     }
 }

@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9A0510FF18063BC8009476AF /* fish-fish2 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A0510FE18063BC8009476AF /* fish-fish2 copy.png */; };
-		9A05110318063CC0009476AF /* fish-fish4 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110218063CC0009476AF /* fish-fish4 copy.png */; };
-		9A05110518063CD0009476AF /* fish-fish5 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110418063CD0009476AF /* fish-fish5 copy.png */; };
-		9A05110718063CD5009476AF /* fish-fish6 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110618063CD5009476AF /* fish-fish6 copy.png */; };
-		9A05110918063CE3009476AF /* fish-fish7 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110818063CE3009476AF /* fish-fish7 copy.png */; };
+		9A0510FF18063BC8009476AF /* fish-fish02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A0510FE18063BC8009476AF /* fish-fish02.png */; };
+		9A05110318063CC0009476AF /* fish-fish04.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110218063CC0009476AF /* fish-fish04.png */; };
+		9A05110518063CD0009476AF /* fish-fish05.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110418063CD0009476AF /* fish-fish05.png */; };
+		9A05110718063CD5009476AF /* fish-fish06.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110618063CD5009476AF /* fish-fish06.png */; };
+		9A05110918063CE3009476AF /* fish-fish07.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A05110818063CE3009476AF /* fish-fish07.png */; };
 		9A24ABEF18069BDB0061D40E /* MakingCentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A24ABED18069BDA0061D40E /* MakingCentsViewController.m */; };
 		9A24ABF018069BDB0061D40E /* MakingCentsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABEE18069BDB0061D40E /* MakingCentsViewController.xib */; };
-		9A24ABF51806AAAB0061D40E /* Dime.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF21806AAAB0061D40E /* Dime.png */; };
-		9A24ABF61806AAAB0061D40E /* Nickel.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF31806AAAB0061D40E /* Nickel.png */; };
-		9A24ABF71806AAAB0061D40E /* Quarter.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF41806AAAB0061D40E /* Quarter.png */; };
+		9A24ABF51806AAAB0061D40E /* dime01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF21806AAAB0061D40E /* dime01.png */; };
+		9A24ABF61806AAAB0061D40E /* nickel01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF31806AAAB0061D40E /* nickel01.png */; };
+		9A24ABF71806AAAB0061D40E /* quarter03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF41806AAAB0061D40E /* quarter03.png */; };
 		9A24ABF91806B0CB0061D40E /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A24ABF81806B0CB0061D40E /* yellow.png */; };
-		9A7E025218068AAD00CE98DF /* fish-fish3 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7E025118068AAD00CE98DF /* fish-fish3 copy.png */; };
-		9A7E025418068AB800CE98DF /* fish-fish1 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7E025318068AB800CE98DF /* fish-fish1 copy.png */; };
+		9A7E025218068AAD00CE98DF /* fish-fish03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7E025118068AAD00CE98DF /* fish-fish03.png */; };
+		9A7E025418068AB800CE98DF /* fish-fish01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7E025318068AB800CE98DF /* fish-fish01.png */; };
 		9A955057180179F300DFF8E4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A955056180179F300DFF8E4 /* UIKit.framework */; };
 		9A955059180179F400DFF8E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A955058180179F300DFF8E4 /* Foundation.framework */; };
 		9A95505B180179F400DFF8E4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A95505A180179F400DFF8E4 /* CoreGraphics.framework */; };
@@ -33,10 +33,10 @@
 		9A955073180179F400DFF8E4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A955071180179F400DFF8E4 /* ViewController.xib */; };
 		9A95507C18017C9100DFF8E4 /* CountingStarsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A95507A18017C9100DFF8E4 /* CountingStarsViewController.m */; };
 		9A95507D18017C9100DFF8E4 /* CountingStarsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A95507B18017C9100DFF8E4 /* CountingStarsViewController.xib */; };
-		9AB941151801AF91003F79FE /* white-star-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB941141801AF91003F79FE /* white-star-hi.png */; };
-		9AB941171801B002003F79FE /* Star (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB941161801B002003F79FE /* Star (1).png */; };
-		9AC3F4FD180E99D90028C05C /* quarter1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3F4FC180E99D90028C05C /* quarter1.png */; };
-		9AC3F4FF180E9A740028C05C /* quarter2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3F4FE180E9A740028C05C /* quarter2.png */; };
+		9AB941151801AF91003F79FE /* star02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB941141801AF91003F79FE /* star02.png */; };
+		9AB941171801B002003F79FE /* star01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB941161801B002003F79FE /* star01.png */; };
+		9AC3F4FD180E99D90028C05C /* quarter01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3F4FC180E99D90028C05C /* quarter01.png */; };
+		9AC3F4FF180E9A740028C05C /* quarter02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3F4FE180E9A740028C05C /* quarter02.png */; };
 		9AC3F503180E9C5E0028C05C /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC3F501180E9C5E0028C05C /* LogInViewController.m */; };
 		9AC3F504180E9C5E0028C05C /* LogInViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3F502180E9C5E0028C05C /* LogInViewController.xib */; };
 		9AFE820B18036F370051DFC0 /* FishToFishViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFE820918036F370051DFC0 /* FishToFishViewController.m */; };
@@ -44,20 +44,20 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9A0510FE18063BC8009476AF /* fish-fish2 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish2 copy.png"; path = "../../../../Downloads/fish-fish2 copy.png"; sourceTree = "<group>"; };
-		9A05110218063CC0009476AF /* fish-fish4 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish4 copy.png"; path = "../../../../Downloads/fish-fish4 copy.png"; sourceTree = "<group>"; };
-		9A05110418063CD0009476AF /* fish-fish5 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish5 copy.png"; path = "../../../../Downloads/fish-fish5 copy.png"; sourceTree = "<group>"; };
-		9A05110618063CD5009476AF /* fish-fish6 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish6 copy.png"; path = "../../../../Downloads/fish-fish6 copy.png"; sourceTree = "<group>"; };
-		9A05110818063CE3009476AF /* fish-fish7 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish7 copy.png"; path = "../../../../Downloads/fish-fish7 copy.png"; sourceTree = "<group>"; };
+		9A0510FE18063BC8009476AF /* fish-fish02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish02.png"; sourceTree = "<group>"; };
+		9A05110218063CC0009476AF /* fish-fish04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish04.png"; sourceTree = "<group>"; };
+		9A05110418063CD0009476AF /* fish-fish05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish05.png"; sourceTree = "<group>"; };
+		9A05110618063CD5009476AF /* fish-fish06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish06.png"; sourceTree = "<group>"; };
+		9A05110818063CE3009476AF /* fish-fish07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish07.png"; sourceTree = "<group>"; };
 		9A24ABEC18069BDA0061D40E /* MakingCentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakingCentsViewController.h; sourceTree = "<group>"; };
 		9A24ABED18069BDA0061D40E /* MakingCentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MakingCentsViewController.m; sourceTree = "<group>"; };
 		9A24ABEE18069BDB0061D40E /* MakingCentsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MakingCentsViewController.xib; sourceTree = "<group>"; };
-		9A24ABF21806AAAB0061D40E /* Dime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dime.png; path = "../../Pictures for math masters/MakingCents/Dime.png"; sourceTree = "<group>"; };
-		9A24ABF31806AAAB0061D40E /* Nickel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Nickel.png; path = "../../Pictures for math masters/MakingCents/Nickel.png"; sourceTree = "<group>"; };
-		9A24ABF41806AAAB0061D40E /* Quarter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Quarter.png; path = "../../Pictures for math masters/MakingCents/Quarter.png"; sourceTree = "<group>"; };
-		9A24ABF81806B0CB0061D40E /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yellow.png; path = "../../Pictures for math masters/MakingCents/yellow.png"; sourceTree = "<group>"; };
-		9A7E025118068AAD00CE98DF /* fish-fish3 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish3 copy.png"; path = "../../../../Downloads/fish-fish3 copy.png"; sourceTree = "<group>"; };
-		9A7E025318068AB800CE98DF /* fish-fish1 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fish-fish1 copy.png"; path = "../../../../Downloads/fish-fish1 copy.png"; sourceTree = "<group>"; };
+		9A24ABF21806AAAB0061D40E /* dime01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dime01.png; sourceTree = "<group>"; };
+		9A24ABF31806AAAB0061D40E /* nickel01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nickel01.png; sourceTree = "<group>"; };
+		9A24ABF41806AAAB0061D40E /* quarter03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quarter03.png; sourceTree = "<group>"; };
+		9A24ABF81806B0CB0061D40E /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		9A7E025118068AAD00CE98DF /* fish-fish03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish03.png"; sourceTree = "<group>"; };
+		9A7E025318068AB800CE98DF /* fish-fish01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fish-fish01.png"; sourceTree = "<group>"; };
 		9A955053180179F300DFF8E4 /* MathMasters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathMasters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A955056180179F300DFF8E4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9A955058180179F300DFF8E4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -77,10 +77,10 @@
 		9A95507918017C9100DFF8E4 /* CountingStarsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountingStarsViewController.h; sourceTree = "<group>"; };
 		9A95507A18017C9100DFF8E4 /* CountingStarsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountingStarsViewController.m; sourceTree = "<group>"; };
 		9A95507B18017C9100DFF8E4 /* CountingStarsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CountingStarsViewController.xib; sourceTree = "<group>"; };
-		9AB941141801AF91003F79FE /* white-star-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "white-star-hi.png"; path = "../../../../Downloads/white-star-hi.png"; sourceTree = "<group>"; };
-		9AB941161801B002003F79FE /* Star (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Star (1).png"; path = "../../../../Downloads/Star (1).png"; sourceTree = "<group>"; };
-		9AC3F4FC180E99D90028C05C /* quarter1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = quarter1.png; path = "../../Pictures for math masters/MakingCents/quarter1.png"; sourceTree = "<group>"; };
-		9AC3F4FE180E9A740028C05C /* quarter2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = quarter2.png; path = "../../Pictures for math masters/MakingCents/quarter2.png"; sourceTree = "<group>"; };
+		9AB941141801AF91003F79FE /* star02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star02.png; sourceTree = "<group>"; };
+		9AB941161801B002003F79FE /* star01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star01.png; sourceTree = "<group>"; };
+		9AC3F4FC180E99D90028C05C /* quarter01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quarter01.png; sourceTree = "<group>"; };
+		9AC3F4FE180E9A740028C05C /* quarter02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quarter02.png; sourceTree = "<group>"; };
 		9AC3F500180E9C5E0028C05C /* LogInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogInViewController.h; sourceTree = "<group>"; };
 		9AC3F501180E9C5E0028C05C /* LogInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogInViewController.m; sourceTree = "<group>"; };
 		9AC3F502180E9C5E0028C05C /* LogInViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LogInViewController.xib; sourceTree = "<group>"; };
@@ -106,37 +106,40 @@
 		9A0510F618063B02009476AF /* CountingStarsImages */ = {
 			isa = PBXGroup;
 			children = (
-				9AB941161801B002003F79FE /* Star (1).png */,
-				9AB941141801AF91003F79FE /* white-star-hi.png */,
+				9AB941161801B002003F79FE /* star01.png */,
+				9AB941141801AF91003F79FE /* star02.png */,
 			);
 			name = CountingStarsImages;
+			path = "Pictures for math masters/CountingStars";
 			sourceTree = "<group>";
 		};
 		9A0510F718063B2F009476AF /* FishToFishImages */ = {
 			isa = PBXGroup;
 			children = (
-				9A05110818063CE3009476AF /* fish-fish7 copy.png */,
-				9A05110618063CD5009476AF /* fish-fish6 copy.png */,
-				9A05110418063CD0009476AF /* fish-fish5 copy.png */,
-				9A05110218063CC0009476AF /* fish-fish4 copy.png */,
-				9A7E025118068AAD00CE98DF /* fish-fish3 copy.png */,
-				9A0510FE18063BC8009476AF /* fish-fish2 copy.png */,
-				9A7E025318068AB800CE98DF /* fish-fish1 copy.png */,
+				9A05110818063CE3009476AF /* fish-fish07.png */,
+				9A05110618063CD5009476AF /* fish-fish06.png */,
+				9A05110418063CD0009476AF /* fish-fish05.png */,
+				9A05110218063CC0009476AF /* fish-fish04.png */,
+				9A7E025118068AAD00CE98DF /* fish-fish03.png */,
+				9A0510FE18063BC8009476AF /* fish-fish02.png */,
+				9A7E025318068AB800CE98DF /* fish-fish01.png */,
 			);
 			name = FishToFishImages;
+			path = "Pictures for math masters/FishToFish";
 			sourceTree = "<group>";
 		};
 		9A24ABF11806AA950061D40E /* MakingCentsImages */ = {
 			isa = PBXGroup;
 			children = (
-				9AC3F4FE180E9A740028C05C /* quarter2.png */,
-				9AC3F4FC180E99D90028C05C /* quarter1.png */,
-				9A24ABF21806AAAB0061D40E /* Dime.png */,
+				9AC3F4FE180E9A740028C05C /* quarter02.png */,
+				9AC3F4FC180E99D90028C05C /* quarter01.png */,
+				9A24ABF21806AAAB0061D40E /* dime01.png */,
 				9A24ABF81806B0CB0061D40E /* yellow.png */,
-				9A24ABF31806AAAB0061D40E /* Nickel.png */,
-				9A24ABF41806AAAB0061D40E /* Quarter.png */,
+				9A24ABF31806AAAB0061D40E /* nickel01.png */,
+				9A24ABF41806AAAB0061D40E /* quarter03.png */,
 			);
 			name = MakingCentsImages;
+			path = "Pictures for math masters/MakingCents";
 			sourceTree = "<group>";
 		};
 		9A95504A180179F300DFF8E4 = {
@@ -206,7 +209,8 @@
 				9A95506C180179F400DFF8E4 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
+			path = MathMasters;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -265,23 +269,23 @@
 				9A95506D180179F400DFF8E4 /* Default-568h@2x.png in Resources */,
 				9A955073180179F400DFF8E4 /* ViewController.xib in Resources */,
 				9A95507D18017C9100DFF8E4 /* CountingStarsViewController.xib in Resources */,
-				9AB941151801AF91003F79FE /* white-star-hi.png in Resources */,
-				9AB941171801B002003F79FE /* Star (1).png in Resources */,
+				9AB941151801AF91003F79FE /* star02.png in Resources */,
+				9AB941171801B002003F79FE /* star01.png in Resources */,
 				9AFE820C18036F370051DFC0 /* FishToFishViewController.xib in Resources */,
-				9A0510FF18063BC8009476AF /* fish-fish2 copy.png in Resources */,
-				9A05110318063CC0009476AF /* fish-fish4 copy.png in Resources */,
-				9A05110518063CD0009476AF /* fish-fish5 copy.png in Resources */,
-				9A05110718063CD5009476AF /* fish-fish6 copy.png in Resources */,
-				9A05110918063CE3009476AF /* fish-fish7 copy.png in Resources */,
-				9A7E025218068AAD00CE98DF /* fish-fish3 copy.png in Resources */,
-				9A7E025418068AB800CE98DF /* fish-fish1 copy.png in Resources */,
+				9A0510FF18063BC8009476AF /* fish-fish02.png in Resources */,
+				9A05110318063CC0009476AF /* fish-fish04.png in Resources */,
+				9A05110518063CD0009476AF /* fish-fish05.png in Resources */,
+				9A05110718063CD5009476AF /* fish-fish06.png in Resources */,
+				9A05110918063CE3009476AF /* fish-fish07.png in Resources */,
+				9A7E025218068AAD00CE98DF /* fish-fish03.png in Resources */,
+				9A7E025418068AB800CE98DF /* fish-fish01.png in Resources */,
 				9A24ABF018069BDB0061D40E /* MakingCentsViewController.xib in Resources */,
-				9A24ABF51806AAAB0061D40E /* Dime.png in Resources */,
-				9A24ABF61806AAAB0061D40E /* Nickel.png in Resources */,
-				9A24ABF71806AAAB0061D40E /* Quarter.png in Resources */,
+				9A24ABF51806AAAB0061D40E /* dime01.png in Resources */,
+				9A24ABF61806AAAB0061D40E /* nickel01.png in Resources */,
+				9A24ABF71806AAAB0061D40E /* quarter03.png in Resources */,
 				9A24ABF91806B0CB0061D40E /* yellow.png in Resources */,
-				9AC3F4FD180E99D90028C05C /* quarter1.png in Resources */,
-				9AC3F4FF180E9A740028C05C /* quarter2.png in Resources */,
+				9AC3F4FD180E99D90028C05C /* quarter01.png in Resources */,
+				9AC3F4FF180E9A740028C05C /* quarter02.png in Resources */,
 				9AC3F504180E9C5E0028C05C /* LogInViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
